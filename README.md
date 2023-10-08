@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Enrico Fortuna
 - 📌 I'm based in Rome, Lazio, Italy
-- 💻 I’m currently studying Computer Science at the Sapienza University of Rome
+- 💻 I’m currently studying CyberSecurity at the Sapienza University of Rome
 
 
 <!---
