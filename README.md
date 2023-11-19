@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Enrico Fortunan, 24 yo
-- 📌 I'm based in Viterbo (little city near Rome), Lazio, Italy
+- 👋 Hi, I’m Enrico Fortuna, 24 yo
+- 📌 I'm based in Rome, Lazio, Italy
 - 💻📚 I’m currently studying CyberSecurity at the Sapienza University of Rome
 
 - 👀 I’m interested in Security, Networks, and exploring the intersection of technology and society
