@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Enrico Fortuna, 24 yo
+- 👋 Hi, I’m Enrico
 - 📌 I'm based in Rome, Lazio, Italy
 - 💻📚 I’m currently studying CyberSecurity at the Sapienza University of Rome
 
